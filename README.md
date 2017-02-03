@@ -1,2 +1,2 @@
 # learning-resources
-A collection of resources related with agile siftware methodologies
+A collection of resources related to IT
