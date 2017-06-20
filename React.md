@@ -1,11 +1,19 @@
 # React
 
+## Redux
+
+### Libraries
+
+* [flux-standard-actions](https://github.com/acdlite/flux-standard-action) - standard way of writing Flux/Redux actions
+* [redux-actions](https://github.com/acdlite/redux-actions) - implementation of the standard above
+
 ## Testing
 
 ### Libraries
 
 * [fetch-mock](http://www.wheresrhys.co.uk/fetch-mock/) - a simple library for mocking the fetch API
 * [redux-mock-store](http://arnaudbenard.com/redux-mock-store/) - a library for mocking Redux store
+* [chai-redux](https://github.com/ScaCap/chai-redux) - Chai.js plugin for testing Redux stuff
 
 ### Articles
 
