@@ -4,6 +4,7 @@
 
 * [Definitive Guide to Form Label Positioning](https://www.sitepoint.com/definitive-guide-form-label-positioning/) - where to place labels
 * [Form Design Guidelines](https://www.cxpartners.co.uk/our-thinking/web_forms_design_guidelines_an_eyetracking_study/) - several useful tips
+* [How to align form elements](https://www.formulate.com.au/blog/alignment/)
 
 ## Optimistic UI
 
