@@ -1,11 +1,24 @@
 # React
 
+## Articles
+
+* [Writing plugins for React applications](https://www.nylas.com/blog/react-plugins/) - a rare article
+* [Presentation and container components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+* [Container components](https://medium.com/@learnreact/container-components-c0e67432e005)
+
 ## Redux
 
 ### Libraries
 
 * [flux-standard-actions](https://github.com/acdlite/flux-standard-action) - standard way of writing Flux/Redux actions
 * [redux-actions](https://github.com/acdlite/redux-actions) - implementation of the standard above
+
+### UI
+
+* [UXCORE](http://uxco.re/)
+* [Material UI](http://www.material-ui.com/#/)
+* [UWP](https://github.com/myxvisual/react-uwp) - components implementing Windows 10 UWP design
+* [Office Fabric](http://dev.office.com/fabric#/) - front end framework for MS Office 365e
 
 ## Testing
 
