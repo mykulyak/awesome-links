@@ -29,13 +29,17 @@
 
 * [Nunjucks.js](https://github.com/mozilla/nunjucks) - port of Jinja2 templates to JS
 
+## Databases
+
+* [Sequelize](http://docs.sequelizejs.com/) - promise-based ORM
+
 ## Browser
 
 * [How event delegation works](https://davidwalsh.name/event-delegate)
 
-## Databases
+### Offline-first
 
-* [Sequelize](http://docs.sequelizejs.com/) - promise-based ORM
+* 
 
 ### Service workers
 

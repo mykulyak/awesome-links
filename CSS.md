@@ -8,6 +8,8 @@
 
 ## Extensions
 
+* [JSS](http://cssinjs.org/?v=v8.1.0) - stylesheets in JavaScript
+
 ## Methodologies
 
 * [CSS guidelines](https://cssguidelin.es/)

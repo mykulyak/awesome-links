@@ -12,6 +12,8 @@
 
 * [flux-standard-actions](https://github.com/acdlite/flux-standard-action) - standard way of writing Flux/Redux actions
 * [redux-actions](https://github.com/acdlite/redux-actions) - implementation of the standard above
+* [redux-api](https://github.com/lexich/redux-api) - API connection layer
+* [redux-orm](https://github.com/tommikaikkonen/redux-orm) - ORM layer
 
 ### UI
 
