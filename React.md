@@ -7,7 +7,8 @@
 * [Container components](https://medium.com/@learnreact/container-components-c0e67432e005)
 * [How to safely use React context](https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076)
 * [Styling React components](http://jsramblings.com/2017/09/22/understand-the-react-styling-paradigms.html?utm_source=reactdigest&utm_medium=email&utm_campaign=featured)
-
+* [Render Props](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
+* [Function as a Child](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9)
 
 ## Redux
 
@@ -25,6 +26,10 @@
 * [Material UI](http://www.material-ui.com/#/)
 * [UWP](https://github.com/myxvisual/react-uwp) - components implementing Windows 10 UWP design
 * [Office Fabric](http://dev.office.com/fabric#/) - front end framework for MS Office 365e
+
+### Accessibility
+
+* [Keyboard Handling](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Keyboard-navigable_JavaScript_widgets)
 
 ## Testing
 
