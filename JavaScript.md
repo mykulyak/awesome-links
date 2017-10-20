@@ -36,10 +36,11 @@
 ## Browser
 
 * [How event delegation works](https://davidwalsh.name/event-delegate)
+* [Debouncing and Throttling](https://css-tricks.com/debouncing-throttling-explained-examples/)
 
 ### Offline-first
 
-* 
+*
 
 ### Service workers
 
