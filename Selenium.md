@@ -14,6 +14,7 @@
 * [Page objects in python](https://pragprog.com/magazines/2010-08/page-objects-in-python)
 * [Page object navigation strategies](http://wakaleo.com/blog/selenium-2-webdriver-quick-tips-page-object-navigation-strategies)
 * [Page Object](https://martinfowler.com/bliki/PageObject.html)
+* [DSL for Selenium tests](http://cheezyworld.com/2010/11/19/ui-tests-introducing-a-simple-dsl/)
 
 ## Libraries
 
