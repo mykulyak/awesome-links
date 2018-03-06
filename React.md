@@ -43,3 +43,11 @@
 
 * [TDD React+Redux](http://engineering.pivotal.io/post/tdding-react-and-redux/) - how to do TDD in React+Redux project
 * [Jest vs Mocha](https://spin.atomicobject.com/2017/05/02/react-testing-jest-vs-mocha/) - comparison of Mocha and Jest for React testing
+
+## Performance
+
+* [How to greatly improve your React performance](https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6) - tips about shouldComponentUpdate, preventing layout trashing etc.
+* [Improve time of first app load](https://hackernoon.com/improving-first-time-load-of-a-production-react-app-part-1-of-2-e7494a7c7ab0)
+* [Redux isn't slow](http://reactrocket.com/post/react-redux-optimization/?utm_source=reactnl&utm_medium=email) - redux-related optimizations
+* [Webpack and React optimization](http://engineering.teacherspayteachers.com/2017/08/16/two-tips-to-improve-performance-by-30-with-react-and-webpack.html?utm_source=reactnl&utm_medium=email)
+* [React performance fixes on AirBnB home page](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
