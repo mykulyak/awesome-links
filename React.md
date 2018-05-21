@@ -51,3 +51,4 @@
 * [Redux isn't slow](http://reactrocket.com/post/react-redux-optimization/?utm_source=reactnl&utm_medium=email) - redux-related optimizations
 * [Webpack and React optimization](http://engineering.teacherspayteachers.com/2017/08/16/two-tips-to-improve-performance-by-30-with-react-and-webpack.html?utm_source=reactnl&utm_medium=email)
 * [React performance fixes on AirBnB home page](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
+* [React performance tips](https://levelup.gitconnected.com/optimize-react-performance-c1a491ed9c36)
